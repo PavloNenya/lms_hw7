@@ -15,6 +15,7 @@ import java.util.Arrays;
  *
  */
 
+//program
 public class Main {
     public static void main(String[] args) {
         int[] array = {5, 1, 7, 2, 76, 23, 12, 543, 46, 23, 3, 86, 100, 54, 45};
